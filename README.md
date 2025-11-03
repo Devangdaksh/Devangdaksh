@@ -1,50 +1,145 @@
-<!--
-**Devangdaksh/Devangdaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Devang</h1>
-<h3 align="center">A young-dumb 🤓 frontend developer and learning android development from India</h3>
-
-<!----------<p align="left"> <img src="https://komarev.com/ghpvc/?username=devangdaksh&label=Profile%20views&color=0e75b6&style=flat" alt="devangdaksh" /> </p>----->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devangdaksh" alt="devangdaksh" /></a> </p>
-
-- 💬 Ask me about **C++, Java and Python**
-
-- 📫 How to reach me **devangkumarprajapati1908@gmail.com**
-
-- ⚡ Fun fact **The first computer bug was *literally* a bug! 🐛 > In 1947, Grace Hopper and her team found a **moth** stuck in a relay of the Harvard Mark II computer. They taped it into the logbook with the note *"First actual case of bug being found."* > And that’s how “debugging” got its name!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/devang-kumar-41642a366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/devang-kumar-41642a366" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@linuxxcoder?si=ga7kiwrrhew1sfqy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@linuxxcoder?si=ga7kiwrrhew1sfqy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/devangdaksh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devangdaksh/" height="30" width="40" /></a>
+<!-- Banner or Logo -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Devang+🔥;A+Passionate+Developer+from+India+🇮🇳;Lover+of+Code,+Design,+and+Innovation!+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
- </p>
+<p>- <i>If you ask me a question and I don't know the answer, I'm going to tell you that I don't know. But I bet you what, I know how to find the answer, and I will find the answer.</i></p>
 
-## 🚀 My GitHub Stats
 
-![Devangdaksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devangdaksh&show_icons=true&count_private=true&hide=prs&theme=dark)
+---
 
-## 📊 My Contribution Streak
+### 👨‍💻 About Me
 
-![Devangdaksh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devangdaksh&theme=dark)
+💡 I love exploring new technologies and building innovative software solutions.  
+🌱 Currently learning **Next.js**, **AI integration**, and **DevOps fundamentals**.  
+💬 Ask me about **Web Development**, **React**, **Node.js**, or **API design**.  
+⚡ Fun fact: I debug 95% of the time and code the other 5%.  
+🎯 My goal: Build things that make life easier for others.
 
-## 🖥️ Top Languages I Use
+---
 
-![Devangdaksh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devangdaksh&langs_count=8&theme=dark)
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js"/><!---,ts,react,next,tailwind,bootstrap" /-->
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,python"><!--,mongodb,mysql,sqlite,express," /-->
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /><!--postman,docker-->
+</p>
+
+<div>
+	<p style="display: inline-block;">
+	<p>
+		<kbd>
+			<kbd>Programming Languages</kbd>
+			<br>
+			<br>
+			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
+			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
+			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
+			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
+		</kbd>
+	</p>
+  <!--
+	<p>
+		<kbd>
+			<kbd>Machine Learning</kbd>
+			<br>
+			<br>
+	    <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=tensorflow">
+	    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy">
+			<img alt="Pandas" src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas">
+			<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-05122A?style=flat">
+			<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=Scikit-learn">
+			<img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV">
+		</kbd>
+	</p>--->
+	<!--
+  <p>
+		<kbd>
+			<kbd>Databases and Cloud Hosting</kbd>
+			<br>
+			<br>
+			<img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
+			<img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
+			<img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-05122A.svg?style=flat&logo=Replit">
+			<img src="https://img.shields.io/badge/AWS%20Amplify-05122A?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+		</kbd>
+	</p>-->
+	<p>
+		<kbd>
+			<kbd>Software and Tools</kbd>
+			<br>
+			<br>
+			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
+			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
+			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
+			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
+	<!--<img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
+			<img alt="Static Badge" src="https://img.shields.io/badge/Atom-05122A?style=flat">
+			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
+			<img alt="Medium" src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=Medium">-->
+			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
+			<!--<img alt="Static Badge" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=Notion">-->
+			<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-05122A?style=flat&logo=Leetcode">
+			<img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces">
+			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
+		</kbd>
+	</p>
+    </p>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devangdaksh&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devangdaksh&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+###  GitHub Activity
+
+[![Devangdaksh's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Devangdaksh&custom_title=Devangdaksh&bg_color=0d1117&color=8ab4f8&line=8ab4f8&point=8ab4f8&area=false&title_color=FFFFFF)](https://github.com/Devangdaksh)
+
+---
+
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devangdaksh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Devangdaksh">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/devang-kumar-41642a366/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:devangkumarprajapati1908@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Devangdaksh/Devangdaksh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🧠 Quote of the Day
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
