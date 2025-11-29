@@ -134,11 +134,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Devangdaksh/Devangdaksh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ### 🧠 Quote of the Day
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
