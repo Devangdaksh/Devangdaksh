@@ -12,8 +12,9 @@
 
 💡 I love exploring new technologies and building innovative software solutions.  
 🌱 Currently learning **Next.js**, **AI integration**, and **DevOps fundamentals**.  
-💬 Ask me about **Web Development**, **React**, **Node.js**, or **API design**.  
-⚡ Fun fact: I debug 95% of the time and code the other 5%.  
+💬 Ask me about **Web Development**, **Python**, **Data Science**, or **Data Analytics**.  
+⚡ Fun fact: “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 🎯 My goal: Build things that make life easier for others.
 
 ---
@@ -41,8 +42,8 @@
 			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
 			<img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
 			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
-			<img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
 			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
+			<img alt="PHP" src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php">
 		</kbd>
 	</p>
   <!--
@@ -85,10 +86,6 @@
 			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
 			<img alt="Medium" src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=Medium">-->
 			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
-			<!--<img alt="Static Badge" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=Notion">-->
-			<img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-05122A?style=flat&logo=Leetcode">
-			<img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces">
-			<img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
 		</kbd>
 	</p>
     </p>
